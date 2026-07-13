@@ -1,0 +1,9 @@
+# This is a Slop-Shell script
+
+yap "Hello World from Slop-Shell!"
+yap "Read your code!!!"
+yap "Don't push it... yk it's SLOP"
+yap "SLOPPMAXXING"
+
+# This is obviously a comment, duh!
+yap "YAPPMAXXING"
